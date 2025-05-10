@@ -64,7 +64,7 @@ Follow these steps to set up the script:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/Script_Backup_Automated.git
+   git clone https://github.com/AboodiAbdo/Script_Backup_Automated.git
    cd Script_Backup_Automated
    ```
 
